@@ -14,7 +14,7 @@ import re
 from typing import List, Dict, Tuple
 import os
 
-# Page config
+# Page config to set browser page title
 st.set_page_config(page_title="SmartHire AI", layout="wide")
 
 @st.cache_resource
